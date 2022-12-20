@@ -9,10 +9,12 @@ int main()
 	int num1 = rand() % 20;
 	int num2 = rand() % 20;
 
-	for (int i = 1; i <= 10; i++)
+/*	for (int i = 1; i <= 10; i++)
 	{
 		printf("[ %d/10 ] %d + %d = %d", i, num1, num2);
 		scanf("%d", &num);
-	}
+	}*/
+    
+    printf("user_name");
 	
 }
