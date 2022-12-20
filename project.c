@@ -17,4 +17,5 @@ int main()
     
     printf("user_name");
 	
+    printf("%d + %d = ", 1, 2);
 }
